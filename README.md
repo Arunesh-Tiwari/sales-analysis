@@ -1,6 +1,3 @@
-# Sales-Analysis
-Vizualization on https://public.tableau.com/app/profile/arunesh.tiwari/viz/SalesCustomerDashboardsProject_17225339340020/SalesDashboard
-
 ### Introduction
 
 This user story outlines the specifications for building two dashboards using Tableau. These dashboards are designed to help stakeholders, including sales managers and executives, analyze sales performance and customer behavior.
